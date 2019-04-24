@@ -1,0 +1,89 @@
+UserName,UserId,ItemName,ItemId
+user_1,1,Smartphone,5001
+user_1,1,Tempered glass,5004
+user_1,1,Back cover,5002
+user_2,2,Smartphone,5001
+user_2,2,Earphones,5003
+user_3,3,Smartphone,5001
+user_3,3,Earphones,5003
+user_3,3,Back cover,5002
+user_3,3,Tempered glass,5004
+user_4,4,Back cover,5002
+user_4,4,Tempered glass,5004
+user_4,4,Earphones,5003
+user_5,5,Back cover,5002
+user_5,5,Tempered glass,5004
+user_6,6,Earphones,5003
+user_6,6,Earphone splitter,5008
+user_7,7,Earphones,5003
+user_7,7,Earphone splitter,5008
+user_7,7,Memory Card,5014
+user_8,8,Tempered glass,5004
+user_8,8,Back cover,5002
+user_9,9,Earphone splitter,5008
+user_9,9,Earphones,5003
+user_10,10,Earphone splitter,5008
+user_10,10,Earphones ,5003
+user_10,10,Memory Card,5014
+user_11,11,Memory Card,5014
+user_11,11,Pendrive,5013
+user_11,11,Earphones,5003
+user_12,12,Memory Card,5014
+user_12,12,Pendrive,5013
+user_34,34,Memory Card,5014
+user_34,34,Pendrive,5013
+user_34,34,Earphones,5003
+user_13,13,Pendrive,5013
+user_13,13,Memory Card,5014
+user_13,13,Earphones,5003
+user_14,14,Pendrive,5013
+user_14,14,Memory Card,5014
+user_14,14,Hard disk,5015
+user_15,15,Pendrive,5013
+user_15,15,Hard disk,5015
+user_16,16,Hard disk,5015
+user_16,16,Pendrive,5013
+user_17,17,Hard disk,5015
+user_17,17,Pendrive,5013
+user_17,17,Data Cable,5006
+user_18,18,Data Cable,5006
+user_18,18,Charger,5007
+user_18,18,Power Bank,5005
+user_19,19,Data Cable,5006
+user_19,19,Charger,5007
+user_20,20,Data Cable,5006
+user_20,20,Power Bank,5005
+user_21,21,Charger,5007
+user_21,21,Data Cable,5006
+user_22,22,Charger,5007
+user_22,22,Data Cable,5006
+user_22,22,Power Bank,5005
+user_23,23,Power Bank,5005
+user_23,23,Data Cable,5006
+user_24,24,Power Bank,5005
+user_24,24,Data Cable,5006
+user_24,24,Charger,5007
+user_25,25,Laptop,5009
+user_25,25,Laptop bag,5010
+user_25,25,Mouse,5011
+user_26,26,Laptop,5009
+user_26,26,Mouse,5011
+user_26,26,Keyboard,5012
+user_27,27,Laptop,5009
+user_27,27,Laptop bag,5010
+user_28,28,Laptop bag,5010
+user_28,28,Mouse,5011
+user_28,28,Keyboard,5012
+user_29,29,Laptop bag,5010
+user_29,29,pendrive,5013
+user_29,29,Mouse,5011
+user_30,30,Mouse,5011
+user_30,30,Keyboard,5012
+user_31,31,Mouse,5011
+user_31,31,Keyboard,5012
+user_31,31,Pendrive,5013
+user_32,32,Keyboard,5012
+user_32,32,Mouse,5011
+user_33,33,Keyboard,5012
+user_33,33,Mouse,5011
+user_33,33,Laptop bag,5010
